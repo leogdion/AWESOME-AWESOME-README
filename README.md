@@ -55,6 +55,8 @@ Tips for an awesome readme file (and why that’s important)
 
 **[Anchorman](https://github.com/mergesort/Anchorman)**
 
+**[BlurHash](https://github.com/woltapp/blurhash)**
+
 ## For Personal Profiles
 
 ### Guides
