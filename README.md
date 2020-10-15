@@ -5,32 +5,52 @@
 ## For Projects
 
 ### Guides
+ 
+**[Make a README by Danny Guo](https://www.makeareadme.com/)**
 
-* https://www.makeareadme.com/
-* https://github.com/kylelobo/The-Documentation-Compendium
+Because no one can read your mind (yet)
+
+
+**[The Documentation Compendium by Kyle Lobo](https://github.com/kylelobo/The-Documentation-Compendium)**
+
+Various templates & tips on writing high-quality documentation that people want to read. 
+
 
 ### Awesome Lists
 
-* [GitHub - matiassingers/awesome-readme: A curated list of awesome READMEs](https://github.com/matiassingers/awesome-readme)
-* https://github.com/matiassingers/awesome-readme
+**[Awesome README by Matias Singers](https://github.com/matiassingers/awesome-readme)**
+
+A curated list of awesome READMEs
+Elements in beautiful READMEs include, but are not limited to: images, screenshots, GIFs, text formatting, etc.
+
 
 ### Templates
 
-* https://github.com/othneildrew/Best-README-Template
-* https://github.com/elangosundar/awesome-README-templates
+**[Best-README-Template by Othneil Drew](https://github.com/othneildrew/Best-README-Template)**
+
+An awesome README template to jumpstart your projects! 
+
+
+**[Awesome README Templates by Elangovan](https://github.com/elangosundar/awesome-README-templates)**
+
+A collection of awesome readme templates to display on your github profile. 
 
 ### Articles
 
-* https://blog.bitsrc.io/how-to-write-beautiful-and-meaningful-readme-md-for-your-next-project-897045e3f991
-* https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3
-* https://nickarner.com/notes/why-should-writing-be-part-of-your-development-culture-june-2020/
+**[How to Write Beautiful and Meaningful README.md by Divyansh Tripathi](https://blog.bitsrc.io/how-to-write-beautiful-and-meaningful-readme-md-for-your-next-project-897045e3f991)**
+
+Tips for an awesome readme file (and why that’s important)
+
+**[A Beginners Guide to writing a Kickass README by Akash Nimare](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)**
+
+> ... today I’d like to give you all some advice which I never received when I started my open source journey.
 
 ### Example Projects
 
 #### Swift
 
-* https://github.com/SwiftGen/SwiftGen/blob/stable/README.md
-* https://github.com/AliSoftware/Reusable/blob/master/README.md
+**[SwiftGen](https://github.com/SwiftGen/SwiftGen)**
+**[Reusable](https://github.com/AliSoftware/Reusable/blob/master/README.md)**
 
 ## For Personal Profiles
 
