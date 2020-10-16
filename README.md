@@ -57,6 +57,24 @@ Tips for an awesome readme file (and why that’s important)
 
 **[BlurHash](https://github.com/woltapp/blurhash)**
 
+**[andreamazz/AMScrollingNavbar: Scrollable UINavigationBar that follows the scrolling of a UIScrollView](https://github.com/andreamazz/AMScrollingNavbar)**
+
+**[Alamofire/Alamofire: Elegant HTTP Networking in Swift](https://github.com/Alamofire/Alamofire)**
+
+**[AsyncNinja/AsyncNinja: A complete set of primitives for concurrency and reactive programming on Swift](https://github.com/AsyncNinja/AsyncNinja)**
+
+**[Kitura/BlueSocket: Socket framework for Swift using the Swift Package Manager. Works on iOS, macOS, and Linux.](https://github.com/Kitura/BlueSocket)**
+
+**[bow-swift/bow: 🏹 Bow is a cross-platform library for Typed Functional Programming in Swift](https://github.com/bow-swift/bow)**
+
+**[carekit-apple/CareKit: CareKit is an open source software framework for creating apps that help people better understand and manage their health.](https://github.com/carekit-apple/CareKit)**
+
+**[badoo/Chatto: A lightweight framework to build chat applications, made in Swift](https://github.com/badoo/Chatto)**
+
+**[emaloney/CleanroomLogger: CleanroomLogger provides an extensible Swift-based logging API that is simple, lightweight and performant](https://github.com/emaloney/CleanroomLogger)**
+
+**[JohnEstropia/CoreStore: Unleashing the real power of Core Data with the elegance and safety of Swift](https://github.com/JohnEstropia/CoreStore)**
+
 ## For Personal Profiles
 
 ### Guides
