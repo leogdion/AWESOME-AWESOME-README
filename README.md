@@ -2,9 +2,21 @@
 
 # AWESOME-AWESOME-README
 
-## For Projects
+* [For Projects](#for-projects)
+    * [Guides](#for-projects-guides) 
+    * [Awesome Lists](#for-projects-awesome-lists)
+    * [Templates](#for-projects-templates)
+    * [Articles](#for-projects-articles)
+    * [Examples](#for-projects-example-projects)
+* [For Projects](#for-personals-profiles)
+    * [Guides](#for-personals-profiles-guides) 
+    * [Awesome Lists](#for-personals-profiles-awesome-lists)
+    * [Templates](#for-personals-profiles-templates)
+* [Tools](#tools)
 
-### Guides
+## <a name="for-projects"></a> For Projects
+
+### <a name="for-projects-guides"></a> Guides
  
 **[Make a README by Danny Guo](https://www.makeareadme.com/)**
 
@@ -16,7 +28,7 @@ Because no one can read your mind (yet)
 Various templates & tips on writing high-quality documentation that people want to read. 
 
 
-### Awesome Lists
+### <a name="for-projects-awesome-lists"></a> Awesome Lists
 
 **[Awesome README by Matias Singers](https://github.com/matiassingers/awesome-readme)**
 
@@ -24,7 +36,7 @@ A curated list of awesome READMEs
 Elements in beautiful READMEs include, but are not limited to: images, screenshots, GIFs, text formatting, etc.
 
 
-### Templates
+### <a name="for-projects-templates"></a> Templates
 
 **[Best-README-Template by Othneil Drew](https://github.com/othneildrew/Best-README-Template)**
 
@@ -35,7 +47,7 @@ An awesome README template to jumpstart your projects!
 
 A collection of awesome readme templates to display on your github profile. 
 
-### Articles
+### <a name="for-projects-articles"></a> Articles
 
 **[How to Write Beautiful and Meaningful README.md by Divyansh Tripathi](https://blog.bitsrc.io/how-to-write-beautiful-and-meaningful-readme-md-for-your-next-project-897045e3f991)**
 
@@ -45,7 +57,7 @@ Tips for an awesome readme file (and why that’s important)
 
 > ... today I’d like to give you all some advice which I never received when I started my open source journey.
 
-### Example Projects
+### <a name="for-projects-example-projects"></a> Example Projects
 
 #### Swift
 
@@ -53,37 +65,25 @@ Tips for an awesome readme file (and why that’s important)
 
 The Swift code generator for your assets, storyboards, Localizable.strings, … — Get rid of all String-based APIs!
 
-_Organization, Project Logo, Badges_
-
 **[Reusable](https://github.com/AliSoftware/Reusable)**
 
 A Swift mixin for reusing views easily and in a type-safe way (UITableViewCells, UICollectionViewCells, custom UIViews, ViewControllers, Storyboards…)
-
-_Organization, Project Logo, Attribution, License, Badges_
 
 **[Anchorman](https://github.com/mergesort/Anchorman)**
 
 An autolayout library for the damn fine citizens of San Diego.
 
-_Funny Gifs, About Me, License, Badges_
-
 **[BlurHash](https://github.com/woltapp/blurhash)**
 
 A very compact representation of a placeholder for an image.
-
-_Purpose, Multiple Implementations, Contribution Guide, Users, FAQ_
 
 **[AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar)**
 
 Scrollable UINavigationBar that follows the scrolling of a UIScrollView
 
-_Project Logo, About Me, Attribution, License, Badges, Contribution Guide, Animated Demo, Version Notes_
-
 **[Alamofire](https://github.com/Alamofire/Alamofire)**
 
 Elegant HTTP Networking in Swift
-
-_Organization, Project Logo, Feature List, About Me, License, Badges, Contribution Guide, FAQ, Migration Guide, Donation Guide, FAQ_
 
 **[AsyncNinja](https://github.com/syncNinja/AsyncNinja)**
 
@@ -295,28 +295,27 @@ The civilized way to write REST API clients for iOS / macOS
 A Matcher Framework for Swift and Objective-C
 
 
-## For Personal Profiles
+## <a name="for-personal-profiles"></a> For Personal Profiles
 
-### Guides
+### <a name="for-personal-profiles-guides"></a> Guides
 
 * [How To Create A GitHub Profile README | monica*dev](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme)
-* [Creating amazing GitHub profiles README - DEV](https://dev.to/diogorodrigues/creating-amazing-github-profiles-readme-5h31)
-* [Getting started with your personal GitHub README - DEV](https://dev.to/iainfreestone/getting-started-with-your-personal-gi
+* [Creating amazing GitHub profiles README - DEV | diogorodrigues](https://dev.to/diogorodrigues/creating-amazing-github-profiles-readme-5h31)
+* [Getting started with your personal GitHub README - DEV | iainfreestone](https://dev.to/iainfreestone/getting-started-with-your-personal-github-readme-2j4)
 
-### Awesome Lists
+### <a name="for-personal-profiles-awesome-lists"></a> Awesome Lists
 
 * [GitHub - abhisheknaiidu/awesome-github-profile-readme: 😎 A curated list of awesome Github Profile READMEs 📝](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 
-### Templates
+### <a name="for-personal-profiles-templates"></a> Templates
 
 * [GitHub - kautukkundan/Awesome-Profile-README-templates: A collection of awesome readme templates to display on your profile](https://github.com/kautukkundan/Awesome-Profile-README-templates)
-thub-readme-2j4)
 * [GitHub - elangosundar/awesome-README-templates: A collection of awesome readme templates to display on your github profile.](https://github.com/elangosundar/awesome-README-templates)
 * [GitHub - themlphdstudent/awesome-github-profile-readme-templates: This repository contains best profile readme’s for your reference.](https://github.com/themlphdstudent/awesome-github-profile-readme-templates)
 
-## Tools
+## <a name="tools"></a> Tools
 
-* https://github.com/joeyespo/grip
-* https://shields.io
-* https://github.com/anuraghazra/github-readme-stats
-* https://github.com/MikeCodesDotNET/ColoredBadges
+* Grip for self-hosting and testing README files - https://github.com/joeyespo/grip
+* Badges - https://shields.io
+* Stats for README - https://github.com/anuraghazra/github-readme-stats
+* Colored Badges - https://github.com/MikeCodesDotNET/ColoredBadges
