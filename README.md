@@ -319,7 +319,6 @@ A Matcher Framework for Swift and Objective-C
 ### <a name="for-personal-profiles-templates"></a> Templates
 
 * [GitHub - kautukkundan/Awesome-Profile-README-templates: A collection of awesome readme templates to display on your profile](https://github.com/kautukkundan/Awesome-Profile-README-templates)
->>>>>>> main
 * [GitHub - elangosundar/awesome-README-templates: A collection of awesome readme templates to display on your github profile.](https://github.com/elangosundar/awesome-README-templates)
 * [GitHub - themlphdstudent/awesome-github-profile-readme-templates: This repository contains best profile readme’s for your reference.](https://github.com/themlphdstudent/awesome-github-profile-readme-templates)
 
