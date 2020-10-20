@@ -8,10 +8,10 @@
     * [Templates](#for-projects-templates)
     * [Articles](#for-projects-articles)
     * [Examples](#for-projects-example-projects)
-* [For Projects](#for-personals-profiles)
-    * [Guides](#for-personals-profiles-guides) 
-    * [Awesome Lists](#for-personals-profiles-awesome-lists)
-    * [Templates](#for-personals-profiles-templates)
+* [For Projects](#for-personal-profiles)
+    * [Guides](#for-personal-profiles-guides) 
+    * [Awesome Lists](#for-personal-profiles-awesome-lists)
+    * [Templates](#for-personal-profiles-templates)
 * [Tools](#tools)
 
 ## <a name="for-projects"></a> For Projects
