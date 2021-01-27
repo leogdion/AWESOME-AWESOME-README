@@ -8,7 +8,7 @@
     * [Templates](#for-projects-templates)
     * [Articles](#for-projects-articles)
     * [Examples](#for-projects-example-projects)
-* [For Projects](#for-personal-profiles)
+* [For Personal Profiles](#for-personal-profiles)
     * [Guides](#for-personal-profiles-guides) 
     * [Awesome Lists](#for-personal-profiles-awesome-lists)
     * [Templates](#for-personal-profiles-templates)
