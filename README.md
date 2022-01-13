@@ -218,6 +218,11 @@ Reactive Programming in Swift
 A protocol to serialize Swift structs and classes for encoding and decoding.
 
 
+**[SkeletonView](https://github.com/Juanpe/SkeletonView)**
+
+☠️ An elegant way to show users that something is happening and also prepare them to which contents they are awaiting.
+
+
 **[Sourcery](https://github.com/krzysztofzablocki/ourcery)**
 
 Meta-programming for Swift, stop writing boilerplate code.
