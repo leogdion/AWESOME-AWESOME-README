@@ -17,7 +17,7 @@
 ## <a name="for-projects"></a> For Projects
 
 ### <a name="for-projects-guides"></a> Guides
- 
+
 **[Make a README by Danny Guo](https://www.makeareadme.com/)**
 
 Because no one can read your mind (yet)
@@ -35,13 +35,11 @@ Various templates & tips on writing high-quality documentation that people want 
 A curated list of awesome READMEs
 Elements in beautiful READMEs include, but are not limited to: images, screenshots, GIFs, text formatting, etc.
 
-
 ### <a name="for-projects-templates"></a> Templates
 
 **[Best-README-Template by Othneil Drew](https://github.com/othneildrew/Best-README-Template)**
 
 An awesome README template to jumpstart your projects! 
-
 
 **[Awesome README Templates by Elangovan](https://github.com/elangosundar/awesome-README-templates)**
 
@@ -293,7 +291,6 @@ The civilized way to write REST API clients for iOS / macOS
 **[Nimble](https://github.com/Quick/Nimble)**
 
 A Matcher Framework for Swift and Objective-C
-
 
 ## <a name="for-personal-profiles"></a> For Personal Profiles
 
