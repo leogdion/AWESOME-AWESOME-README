@@ -63,37 +63,25 @@ Tips for an awesome readme file (and why that’s important)
 
 The Swift code generator for your assets, storyboards, Localizable.strings, … — Get rid of all String-based APIs!
 
-_Organization, Project Logo, Badges_
-
 **[Reusable](https://github.com/AliSoftware/Reusable)**
 
 A Swift mixin for reusing views easily and in a type-safe way (UITableViewCells, UICollectionViewCells, custom UIViews, ViewControllers, Storyboards…)
-
-_Organization, Project Logo, Attribution, License, Badges_
 
 **[Anchorman](https://github.com/mergesort/Anchorman)**
 
 An autolayout library for the damn fine citizens of San Diego.
 
-_Funny Gifs, About Me, License, Badges_
-
 **[BlurHash](https://github.com/woltapp/blurhash)**
 
 A very compact representation of a placeholder for an image.
-
-_Purpose, Multiple Implementations, Contribution Guide, Users, FAQ_
 
 **[AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar)**
 
 Scrollable UINavigationBar that follows the scrolling of a UIScrollView
 
-_Project Logo, About Me, Attribution, License, Badges, Contribution Guide, Animated Demo, Version Notes_
-
 **[Alamofire](https://github.com/Alamofire/Alamofire)**
 
 Elegant HTTP Networking in Swift
-
-_Organization, Project Logo, Feature List, About Me, License, Badges, Contribution Guide, FAQ, Migration Guide, Donation Guide, FAQ_
 
 **[AsyncNinja](https://github.com/syncNinja/AsyncNinja)**
 
